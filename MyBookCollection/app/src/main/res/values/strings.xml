@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">MyBookCollection</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Inloggen</string>
+    <string name="title_activity_register">Registreren</string>
+    <string name="buttonInloggen">Inloggen</string>
+    <string name="buttonRegistreren">Registreren</string>
+    <string name="accountAanmaken">Nog geen account? Maak nu één aan</string>
+    <string name="hintPaswoord">Paswoord</string>
+    <string name="hintPaswoordBevestiging">Bevestig paswoord</string>
+    <string name="hintEmail">Emailadres</string>
+    <string name="beschrijvingLogo">Logo boek</string>
 </resources>
